@@ -14,5 +14,16 @@ We have collected a custom dataset using a Google search piano sheet with symbol
    <em> Fig.1 Example of image in train set.</em>
 </p>
 
+## Solution
+
+Overall pipeline you can see in Fig.2.
+
+<p align="center">
+  <img src="images/notes_with_signs.png" width="750">
+</p>
+<p align="center">   
+   <em> Fig.2 Pipeline </em>
+</p>
+
 
 ## Results
