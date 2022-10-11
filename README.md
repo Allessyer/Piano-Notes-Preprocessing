@@ -29,11 +29,13 @@ Overall pipeline you can see in Fig.2.
 ## Result
 
 <p align="center">
-  <img src="images/return_result.jpg" width="400">
-  <img src="images/test_6.jpg" width="400">
+  <img src="images/return_result.jpg" width="750">
+  <em> a. </em>
+  <img src="images/test_6.jpg" width="750">
+  <em> b. </em>
 </p>
 <p align="center">   
-   <em> Fig.3 Result of the script.</em>
+   <em> Fig.3. a. original image, b. preprocessed image.</em>
 </p>
 
 
