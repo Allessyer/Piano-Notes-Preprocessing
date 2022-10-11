@@ -53,6 +53,12 @@ pip install -r requirements.txt
 ```
 python color_notes.py
 ```
+This script in the end will create `output` directory and put all processed images into it.
+
+If you want to run on your own images, put them into one directory and put as an argument to the script path to this directory as:
+```
+python color_notes.py -path <PATH TO DIRECTORY OF YOUR IMAGES>
+```
 
 
 <p align="center">
