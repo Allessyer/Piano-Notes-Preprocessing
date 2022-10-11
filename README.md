@@ -25,6 +25,13 @@ Overall pipeline you can see in Fig.2.
    <em> Fig.2 Pipeline </em>
 </p>
 
+To achieve the results, following techniques were used:
+1. [Morphological Transformations ](https://docs.opencv.org/4.x/d9/d61/tutorial_py_morphological_ops.html)
+2. GaussianBlur
+3. [find Contours](https://docs.opencv.org/4.x/d4/d73/tutorial_py_contours_begin.html)
+4. [Contour Features: Contour Area](https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html)
+5. [Contour Features: Contour Approximation](https://docs.opencv.org/4.x/dd/d49/tutorial_py_contour_features.html)
+6. [Convex Hull](https://docs.opencv.org/3.4/d3/dc0/group__imgproc__shape.html#ga014b28e56cb8854c0de4a211cb2be656) - is the minimum boundary that can completely enclose or wrap the object(or contour of that object). A Convex Hull looks similar to contour approximation, but it is not exactly a contour approximation. A convex hull is a convex curve around an object.
 
 ## Result
 
