@@ -29,7 +29,27 @@ Overall pipeline you can see in Fig.2.
 ## Result
 
 To run succesfully script `color_notes.py`, do the following:
-1. 
+1. clone this repository:
+```
+git clone https://github.com/Allessyer/Piano-Notes-Preprocessing.git
+```
+2. create conda environment
+```
+conda create --name piano_notes
+```
+3. activate conda environment
+```
+conda activate piano_notes
+```
+4. install dependencies
+```
+pip install -r requirements.txt
+```
+5. run `color_notes.py`
+```
+python color_notes.py
+```
+
 
 <p align="center">
   <img src="images/test_6.jpg" width="750">
