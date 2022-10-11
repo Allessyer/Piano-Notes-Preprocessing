@@ -29,13 +29,13 @@ Overall pipeline you can see in Fig.2.
 ## Result
 
 <p align="center">
-  <img src="images/return_result.jpg" width="750">
+  <img src="images/test_6.jpg" width="750">
 </p>
 <p align="center">
   <em> a. </em>
 </p>
 <p align="center">
-  <img src="images/test_6.jpg" width="750">
+  <img src="images/return_result.jpg" width="750">
 </p>
 <p align="center">
   <em> b. </em>
