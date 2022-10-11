@@ -8,7 +8,7 @@ When you first start learning to play the piano, there is a bunch of information
 We have collected a custom dataset using a Google search piano sheet with symbols that describe the volume of a sound, and randomly choose the 5 images. In Fig.1 in grean boxes special symbols related to sounds intensity are shown.
 
 <p align="center">
-  <img src="images/notes_with_sign.png" width="750">
+  <img src="images/notes_with_signs.png" width="750">
 </p>
 <p align="center">   
    <em> Fig.1 Example of image in train set.</em>
