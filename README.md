@@ -19,7 +19,7 @@ We have collected a custom dataset using a Google search piano sheet with symbol
 Overall pipeline you can see in Fig.2.
 
 <p align="center">
-  <img src="images/notes_with_signs.png" width="750">
+  <img src="images/pipeline.png" width="750">
 </p>
 <p align="center">   
    <em> Fig.2 Pipeline </em>
