@@ -28,6 +28,9 @@ Overall pipeline you can see in Fig.2.
 
 ## Result
 
+To run succesfully script `color_notes.py`, do the following:
+1. 
+
 <p align="center">
   <img src="images/test_6.jpg" width="750">
 </p>
