@@ -33,19 +33,23 @@ To run succesfully script `color_notes.py`, do the following:
 ```
 git clone https://github.com/Allessyer/Piano-Notes-Preprocessing.git
 ```
-2. create conda environment
+2. go to the directory `Piano-Notes-Preprocessing`
+```
+cd Piano-Notes-Preprocessing
+```
+3. create conda environment
 ```
 conda create --name piano_notes
 ```
-3. activate conda environment
+4. activate conda environment
 ```
 conda activate piano_notes
 ```
-4. install dependencies
+5. install dependencies
 ```
 pip install -r requirements.txt
 ```
-5. run `color_notes.py`
+6. run `color_notes.py`
 ```
 python color_notes.py
 ```
